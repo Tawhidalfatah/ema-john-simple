@@ -2,3 +2,18 @@
     margin: 50px auto;
 
 }
+
+.btn-proceed {
+    background: #ff9900;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    height: 56px;
+    font-size: 21px;
+    margin: 10 auto;
+    border-radius: 4px;
+    color: white;
+    margin-top: 10px;
+}
